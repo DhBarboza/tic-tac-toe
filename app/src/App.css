@@ -1,0 +1,55 @@
+.container {
+  width: 100%;
+  height: 100vh;
+
+  background-color: #f2f2f2;
+
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  color: #264653;
+}
+
+.board {
+  display: flex;
+
+  width: 260px;
+
+  flex-wrap: wrap;
+
+  margin: 10px;
+
+  opacity: 1;
+}
+
+.board.finishGame {
+  opacity: 0.3;
+}
+
+.cell {
+  width: 80px;
+  height: 80px;
+
+  background-color: white;
+  color: aliceblue;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin: 2px;
+
+  cursor: pointer;
+
+  border-radius: 5px;
+}
+
+.cell.O {
+  background-color: #2a9d8f;
+}
+
+.cell.X {
+  background-color: #e78f51;
+}
