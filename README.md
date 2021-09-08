@@ -4,6 +4,10 @@ The old game (or Game of the Rooster, or Tic Tac Toe) is an ancient game that he
 
 In the basic game mode, two people participate, who play alternately, filling each of the empty spaces. Each participant must wear a symbol (X or O). The player who manages to first form a line with three identical symbols, either horizontally, vertically or diagonally, wins.
 
+<p>
+    <img align="center" alt="demonstration" width="470" src="app/assets/readme/tic-tac-toe-project.gif">
+</p>
+
 ## Technologies Used
 
 <div align="left" style="display: inline_block">
@@ -18,21 +22,15 @@ In the basic game mode, two people participate, who play alternately, filling ea
 - package manager: [NPM](https://www.npmjs.com/)
 
 ## Create Project:
-
 ### Yarn:
-
 > yarn create vite project --template react-ts pro
 
 ### NPM:
-
 > npm init vite@latest app --template react-ts
 
 ## Run project
-
 ### NPM:
-
 > npm run dev
 
 ### Yarn:
-
 > yarn run
