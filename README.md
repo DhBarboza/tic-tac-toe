@@ -13,6 +13,9 @@ In the basic game mode, two people participate, who play alternately, filling ea
     <img align="center" alt="Douglas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+- bundling tool: [Vitejs](https://vitejs.dev/guide/why.html)
+- package manager: [NPM](https://www.npmjs.com/)
+
 ## Create Project:
 
 ### Yarn:
