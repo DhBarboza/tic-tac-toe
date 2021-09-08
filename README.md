@@ -4,7 +4,7 @@ The old game (or Game of the Rooster, or Tic Tac Toe) is an ancient game that he
 
 In the basic game mode, two people participate, who play alternately, filling each of the empty spaces. Each participant must wear a symbol (X or O). The player who manages to first form a line with three identical symbols, either horizontally, vertically or diagonally, wins.
 
-<p>
+<p align="center">
     <img align="center" alt="demonstration" width="470" src="app/assets/readme/tic-tac-toe-project.gif">
 </p>
 
