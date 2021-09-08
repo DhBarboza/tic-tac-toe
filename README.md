@@ -5,6 +5,11 @@ In the basic game mode, two people participate, who play alternately, filling ea
 
 ## Technologies Used
 
+<div align="left" style="display: inline_block">
+    <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
 
 ## Create Project:
 ### Yarn:
